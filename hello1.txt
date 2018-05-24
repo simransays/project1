@@ -2,7 +2,7 @@ test file to learn merging
 
 this is test12 file
 
-testig different functionalities
+testing different functionalities
 
 dont know yet how to merge
 learning merging of functionalities
