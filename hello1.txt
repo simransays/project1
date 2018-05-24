@@ -1,10 +1,11 @@
+
 test file to learn merging
 
-this is test12 file
+This is test12 file
 
 Testing different functionalities
 
 dont know yet how to merge.
 learning merging of functionalities.
 
-this is going to create conflicts again but that is to be resolved.
+This is going to create conflicts again but that is to be resolved.
