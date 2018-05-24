@@ -1,3 +1,11 @@
+
+test file to learn merging
+
 This is test12 file
+
+testing different functionalities
+
+dont know yet how to merge
+learning merging of functionalities
 
 This is going to create conflicts again but that is to be resolved.
