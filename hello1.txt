@@ -1,5 +1,5 @@
 
-Test file to learn merging
+Test file to learn merging.
 
 This is test12 file
 
