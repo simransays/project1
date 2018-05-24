@@ -2,9 +2,9 @@ test file to learn merging
 
 this is test12 file
 
-testing different functionalities
+Testing different functionalities
 
 dont know yet how to merge
-learning merging of functionalities
+learning merging of functionalities.
 
 this is going to create conflicts again but that is to be resolved.
