@@ -1,1 +1,3 @@
 hello 2 file new file new testing
+
+no conflicts.
