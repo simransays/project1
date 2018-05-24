@@ -5,7 +5,7 @@ This is test12 file
 
 Testing different functionalities
 
-dont know yet how to merge
+dont know yet how to merge.
 learning merging of functionalities.
 
 This is going to create conflicts again but that is to be resolved.
