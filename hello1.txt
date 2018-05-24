@@ -1,1 +1,8 @@
+test file to learn merging
+
 this is test2 file
+
+testig different functionalities
+
+dont know yet how to merge
+learning merging of functionalities
